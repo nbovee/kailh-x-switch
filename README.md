@@ -1,2 +1,14 @@
 # kailh-x-switch
-KiCad footprint for the Kailh X Switch (ULP)
+KiCad footprint for the Kailh X Switch, which I have sometimes seen called the Ultra Low Profile or ULP.
+
+This footprint is based from the schematic and measurements taken from the keyswitch. Note that the footprint given on the schematic is from the rear of the switch.
+
+Physical part:
+![Photograph of a Kailh X Switch](/images/xswitch.png)
+
+Footprint:
+![KiCAD footprint of a Kailh X Switch](/images/footprint.png)
+
+Schematic:
+![Schematic of a Kailh X Switch](/images/schematic.png)
+
