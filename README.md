@@ -7,8 +7,8 @@ Physical part:
 ![Photograph of a Kailh X Switch](images/xswitch.jpg)
 
 Footprint:
-![KiCAD footprint of a Kailh X Switch](images/footprint.png)
+![KiCAD footprint of a Kailh X Switch](images/footprint.PNG)
 
 Schematic:
-![Schematic of a Kailh X Switch](images/schematic.png)
+![Schematic of a Kailh X Switch](images/schematic.PNG)
 
